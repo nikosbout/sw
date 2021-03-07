@@ -3,3 +3,5 @@
 # Νικόλαος Μπουτουρίδης
 
 ## ΑΜ: Π201726
+
+## Βιογραφικό: https://nikosbout.github.io/online-cv/
